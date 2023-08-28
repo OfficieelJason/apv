@@ -1,0 +1,53 @@
+# Project information
+site_name: Cortus Roleplay wet en regelgeving
+site_url: 'https://wetboek.cortusrp.nl/'
+site_description: 'Wet en regelgeving van Cortus roleplay'
+site_author: 'Cortus Roleplay'
+
+copyright: Copyright &copy; 2023 - 2024 Cortus Roleplay
+
+theme:
+  name: material
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to system preference
+  favicon: img/logoCortus.png
+  logo: img/logoCortus.webp
+  custom_dir: docs/overrides
+  language: nl
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - header.autohide
+    - toc.follow
+
+plugins:
+  - search:
+      lang: nl
+markdown_extensions:
+  - admonition
+  - attr_list
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tables.js
+nav:
+  - Home: index.md
+  - Algemene Plaatselijke Verordening: apv.md
+  - Wetboek: wetboek.md
+  - Overig:
+    - NOTAM: notam.md
+    - Streamen op Cortus Roleplay: streamen.md
+    - Kosten:
+      - Ambulance: kosten/ambulance.md
+      - ANWB: kosten/anwb.md
+      - Politie: kosten/politie.md
