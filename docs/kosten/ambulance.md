@@ -46,4 +46,4 @@ De kosten voor een zorg verzekering zijn als volgt op gebouwd:
 | Operatie schotwond(en)                | € 1500,- | € 6000,- |
 
 !!! attention "LET OP"
-    De prijzen kunnen ten alle tijden worden worden gewijzigd
+    De prijzen kunnen ten alle tijden worden gewijzigd

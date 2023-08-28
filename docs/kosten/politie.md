@@ -175,7 +175,7 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Zonder Vliegbrevet vliegen | € 75000,- |
 
 !!! attention "LET OP"
-    De prijzen kunnen ten alle tijden worden worden gewijzigd
+    De prijzen kunnen ten alle tijden worden gewijzigd
 
 !!! attention "LET OP"
     De prijzen kunnen achterlopen met wat er in het wetboek staat beschreven. Kijk voor de actuele prijzen [hier](https://wetboek.cortusrp.nl/wetboek/)

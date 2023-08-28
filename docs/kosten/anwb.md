@@ -60,4 +60,4 @@ Bij de anwb worden verschillende categorieën gehanteerd hier onder zijn deze te
 | Grote benzine bijvullen | € 250,- |
 
 !!! attention "LET OP"
-    De prijzen kunnen ten alle tijden worden worden gewijzigd
+    De prijzen kunnen ten alle tijden worden gewijzigd
